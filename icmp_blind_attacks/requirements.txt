@@ -1,5 +1,0 @@
-# Python deps for the attack + analysis scripts.
-scapy>=2.5        # craft/send spoofed IP/ICMP/TCP packets
-matplotlib>=3.5   # graphs for the final report
-# System tools (install via apt, not pip):
-#   iperf3, tcpdump, iproute2 (ip, ss)
